@@ -1,1 +1,0 @@
-python %Python_Home%\Lib\idlelib\idle.pyw -r %Account_Home%\account.py
